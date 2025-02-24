@@ -1,1 +1,1 @@
-git, github 실습용
+git, github 실습용입니당
